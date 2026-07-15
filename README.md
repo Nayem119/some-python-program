@@ -165,6 +165,6 @@ some-python-program/
 
 **⭐ ভালো লাগলে স্টার দিন — শেখা চালিয়ে যান!**
 
-Made with Nayem Agammad
+Made with Nayem Ahammad
 
 </div>
