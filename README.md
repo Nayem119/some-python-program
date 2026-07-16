@@ -5,7 +5,7 @@
 **বাংলায় Python শেখার জন্য ৫০টি হাতে-কলমে প্র্যাকটিস প্রজেক্ট**
 
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Progress](https://img.shields.io/badge/Progress-26%2F50-2ea043?style=for-the-badge&logo=github&logoColor=white)]()
+[![Progress](https://img.shields.io/badge/Progress-31%2F50-2ea043?style=for-the-badge&logo=github&logoColor=white)]()
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)]()
 
 *ভিত্তি থেকে চ্যালেঞ্জ — ধাপে ধাপে Python দক্ষতা বাড়ান*
@@ -165,6 +165,6 @@ some-python-program/
 
 **⭐ ভালো লাগলে স্টার দিন — শেখা চালিয়ে যান!**
 
-Made with ❤️ for Bengali Python learners
+Made with Nayem Ahammad
 
 </div>
